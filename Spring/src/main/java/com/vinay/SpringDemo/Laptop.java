@@ -1,4 +1,4 @@
-package com.anand.SpringDemo;
+package com.vinay.SpringDemo;
 
 public class Laptop implements Computer {
 

@@ -1,4 +1,4 @@
-package com.anand.secureapp;
+package com.vinay.secureapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
