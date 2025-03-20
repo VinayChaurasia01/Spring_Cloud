@@ -1,4 +1,4 @@
-package com.vinay.secureapp;
+package com.security.secureapp;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

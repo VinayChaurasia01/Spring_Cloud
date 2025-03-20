@@ -1,4 +1,4 @@
-package com.vinay.secureapp;
+package com.security.secureapp;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

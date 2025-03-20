@@ -1,4 +1,4 @@
-package com.vinay.secureapp;
+package com.security.secureapp;
 
 import java.util.Collection;
 import java.util.Collections;
