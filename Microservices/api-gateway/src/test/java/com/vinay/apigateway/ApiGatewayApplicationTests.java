@@ -1,4 +1,4 @@
-package com.anand.apigateway;
+package com.vinay.apigateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
